@@ -20,5 +20,9 @@
   "homepage": "https://github.com/lazerwalker/open-world-idle#readme",
   "devDependencies": {
     "parcel": "^2.4.1"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   }
 }
